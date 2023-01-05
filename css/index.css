@@ -1,0 +1,46 @@
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+.text-center {
+    text-align: center;
+}
+
+.gray {
+ background-color: rgb(238, 238, 238);
+}
+
+.small {
+    font-size: small;
+}
+
+.style {
+    width: 500px;
+    height: 100px;
+    background-color: rgb(126, 229, 218);
+    float: left;
+    margin: 1px;
+}
+
+.style2 {
+    width: 300px;
+    height: 100px;
+    background-color: rgb(112, 204, 194);
+    float: left;
+    margin: 1px;
+}
+
+.style3 {
+    width: 614px;
+    height: 100px;
+    background-color: rgb(98, 179, 170);
+    float: left;
+    margin: 1px;
+}
+
+.container {
+    margin: 0px 50px 0px 50px;
+}
